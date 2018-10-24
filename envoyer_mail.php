@@ -5,9 +5,9 @@
 
 
 
-
+$mail='rawdhanouisser@gmail.com';
 $sujet = "Activer votre compte" ;
-$entete = "From: rawdhanouisser@gmail.com" ;
+$entete = "From: raoudha.nouisser@gmail.com" ;
 $message = "Bienvenue sur l'application Control Diabete,
  
 Pour activer votre compte, veuillez cliquer sur le lien ci dessous
