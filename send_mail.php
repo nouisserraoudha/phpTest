@@ -4,7 +4,7 @@
 $name=$_REQUEST['name'];
 $email=$_REQUEST['mail'];
 $message=$_REQUEST['message'];
-$cle=mt_rand(1,100000);
+
 
 
 $headers  = 'MIME-Version: 1.0' . "\r\n";
